@@ -1,0 +1,742 @@
+{
+        "1": {
+                "x": 44.19,
+                "y": 55.32,
+                "dist": 10000,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+
+
+
+        "2": {
+                "x": 44.78,
+                "y": 56.34,
+                "dist": 1.29,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "3": {
+                "x": 45.33,
+                "y": 57.41,
+                "dist": 1.29,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "4": {
+                "x": 46.07,
+                "y": 58.15,
+                "dist": 1.2,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "5": {
+                "x": 46.14,
+                "y": 59.66,
+                "dist": 1.21,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "6": {
+                "x": 46.37,
+                "y": 61.07,
+                "dist": 1.21,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "7": {
+                "x": 47.87,
+                "y": 60.33,
+                "dist": 1.1,
+                "d": "mv",
+                "comment" : "no jump. bridge",
+                "path": {}
+        },
+        "8": {
+                "x": 49.00,
+                "y": 63.35,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge begin",
+                "path": {}
+        },
+        "9": {
+                "x": 49.76,
+                "y": 64.21,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 2",
+                "path": {}
+        },
+        "10": {
+                "x": 50.76,
+                "y": 63.37,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 3",
+                "path": {}
+        },
+        "11": {
+                "x": 50.68,
+                "y": 61.65,
+                "dist": 1.44,
+                "d": "mv",
+                "comment" : "no jump. bridge end",
+                "path": {}
+        },
+        "12": {
+                "x": 50.79,
+                "y": 62.21,
+                "dist": 1.44,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "13": {
+                "x": 50.84,
+                "y": 62.80,
+                "dist": 1.44,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "14": {
+                "x": 51.53,
+                "y": 63.30,
+                "dist": 1.44,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "15": {
+                "x": 52.62,
+                "y": 63.50,
+                "dist": 1.44,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "16": {
+                "x": 53.06,
+                "y": 63.27,
+                "dist": 1.44,
+                "comment" : "",
+                "d": "aggro",
+                "path": {}
+        },
+        "17": {
+                "x": 53.71,
+                "y": 62.07,
+                "dist": 1.44,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "18": {
+                "x": 53.19,
+                "y": 61.55,
+                "dist": 0.65,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "19": {
+                "x": 53.33,
+                "y": 60.0,
+                "dist": 1.56,
+                "d": "mv",
+                "comment" : "no jump. bridge",
+                "path": {}
+        },
+
+
+
+        "20": {
+                "x": 54.25,
+                "y": 59.68,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge begin",
+                "path": {}
+        },
+        "21": {
+                "x": 55.74,
+                "y": 59.43,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 2",
+                "path": {}
+        },
+        "22": {
+                "x": 57.01,
+                "y": 58.77,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 3",
+                "path": {}
+        },
+        "23": {
+                "x": 56.79,
+                "y": 58.17,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 4",
+                "path": {}
+        },
+        "24": {
+                "x": 56.16,
+                "y": 58.46,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 4",
+                "path": {}
+        },
+        "25": {
+                "x": 55.06,
+                "y": 58.09,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 5",
+                "path": {}
+        },
+
+        "26": {
+                "x": 54.38,
+                "y": 57.87,
+                "dist": 0.75,
+                "d": "mv",
+                "comment" : "no jump. bridge middle",
+                "path": {}
+        },
+
+
+        "27": {
+                "x": 54.48,
+                "y": 57.70,
+                "dist": 0.75,
+                "d": "aggro",
+                "comment" : "no jump. bridge end",
+                "path": {}
+        },
+        "28": {
+                "x": 55.2,
+                "y": 56.62,
+                "dist": 1.19,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "29": {
+                "x": 55.32,
+                "y": 56.06,
+                "dist": 1.19,
+                "comment" : "",
+                "d": "aggro",
+                "path": {}
+        },
+        "30": {
+                "x": 55.52,
+                "y": 54.9,
+                "dist": 1.19,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "31": {
+                "x": 55.69,
+                "y": 52.47,
+                "dist": 1.0,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "32": {
+                "x": 56.42,
+                "y": 51.90,
+                "dist": 1.0,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "33": {
+                "x": 57.14,
+                "y": 51.88,
+                "dist": 1.0,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "34": {
+                "x": 57.60,
+                "y": 52.8,
+                "dist": 2.68,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "35": {
+                "x": 57.61,
+                "y": 53.05,
+                "dist": 2.68,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "36": {
+                "x": 58.98,
+                "y": 52.6,
+                "dist": 1.48,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "37": {
+                "x": 58.47,
+                "y": 52.21,
+                "dist": 1.48,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "38": {
+                "x": 58.46,
+                "y": 50.94,
+                "dist": 1.48,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "39": {
+                "x": 58.42,
+                "y": 49.06,
+                "dist": 1.21,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "40": {
+                "x": 58.83,
+                "y": 48.06,
+                "dist": 1.08,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "41": {
+                "x": 60.17,
+                "y": 46.70,
+                "dist": 1.08,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "42": {
+                "x": 60.56,
+                "y": 45.38,
+                "dist": 1.08,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "43": {
+                "x": 59.84,
+                "y": 43.82,
+                "dist": 1.73,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "44": {
+                "x": 60.08,
+                "y": 43.23,
+                "dist": 1.73,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "45": {
+                "x": 60.60,
+                "y": 41.96,
+                "dist": 1.73,
+                "d": "attack",
+                "comment" : "nospells",
+                "path": {}
+        },
+        "46": {
+                "x": 59.55,
+                "y": 41.65,
+                "dist": 2.16,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "47": {
+                "x": 58.32,
+                "y": 38.46,
+                "dist": 2.9,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "48": {
+                "x": 57.44,
+                "y": 37.47,
+                "dist": 2.9,
+                "d": "attack",
+                "comment" : "near stones. Strong enemies.",
+                "path": {}
+        },
+
+
+
+
+
+        "49": {
+                "x": 56.66,
+                "y": 37.33,
+                "dist": 2.9,
+                "d": "aggro",
+                "comment" : "near birds respawn. Skip",
+                "path": {}
+        },
+        "50": {
+                "x": 56.04,
+                "y": 37.07,
+                "dist": 2.9,
+                "d": "attack",
+                "comment" : "birds respawn. Skip",
+                "path": {}
+        },
+
+        "51": {
+                "x": 56.45,
+                "y": 36.22,
+                "dist": 2.9,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+
+
+
+        "52": {
+                "x": 57.04,
+                "y": 36.24,
+                "dist": 2.9,
+                "d": "aggro",
+                "comment" : "near birds respawn. Skip",
+                "path": {}
+        },
+        "53": {
+                "x": 56.69,
+                "y": 35.64,
+                "dist": 2.9,
+                "d": "attack",
+                "comment" : "Skip",
+                "path": {}
+        },
+        "54": {
+                "x": 55.43,
+                "y": 35.0,
+                "dist": 2.11,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "55": {
+                "x": 54.81,
+                "y": 35.11,
+                "dist": 1.03,
+                "d": "aggro",
+                "comment" : "Skip",
+                "path": {}
+        },
+        "56": {
+                "x": 54.01,
+                "y": 35.87,
+                "dist": 1.03,
+                "d": "attack",
+                "comment" : "Skip",
+                "path": {}
+        },
+        "57": {
+                "x": 52.99,
+                "y": 38.00,
+                "dist": 1.03,
+                "d": "to heros rest",
+                "comment" : "",
+                "path": {}
+        },
+        "58": {
+                "x": 52.77,
+                "y": 46.17,
+                "dist": 1.03,
+                "d": "mv on rest",
+                "comment" : "",
+                "path": {}
+        },
+        "59": {
+                "x": 53.23,
+                "y": 47.20,
+                "dist": 1.03,
+                "d": "mailbox",
+                "comment" : "",
+                "path": {}
+        },
+        "60": {
+                "x": 52.77,
+                "y": 46.17,
+                "dist": 1.03,
+                "d": "mv on rest",
+                "comment" : "",
+                "path": {}
+        },
+        "61": {
+                "x": 52.99,
+                "y": 38.00,
+                "dist": 1.03,
+                "d": "from heros rest",
+                "comment" : "",
+                "path": {}
+        },
+        
+        "62": {
+                "x": 53.49,
+                "y": 35.09,
+                "dist": 0.95,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "63": {
+                "x": 52.46,
+                "y": 36.35,
+                "dist": 1.63,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "64": {
+                "x": 51.37,
+                "y": 37.48,
+                "dist": 1.57,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "65": {
+                "x": 49.33,
+                "y": 38.9,
+                "dist": 2.49,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "66": {
+                "x": 47.55,
+                "y": 40.15,
+                "dist": 2.18,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "67": {
+                "x": 46.15,
+                "y": 40.86,
+                "dist": 1.57,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "68": {
+                "x": 45.04,
+                "y": 40.36,
+                "dist": 1.72,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "69": {
+                "x": 44.97,
+                "y": 39.90,
+                "dist": 1.72,
+                "d": "aggro",
+                "comment" : "larions",
+                "path": {}
+        },
+        "70": {
+                "x": 46.03,
+                "y": 38.67,
+                "dist": 1.72,
+                "d": "attack",
+                "comment" : "larions",
+                "path": {}
+        },
+
+        "71": {
+                "x": 44.85,
+                "y": 41.03,
+                "dist": 1.72,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "72": {
+                "x": 44.47,
+                "y": 41.57,
+                "dist": 1.72,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "73": {
+                "x": 43.66,
+                "y": 42.93,
+                "dist": 1.72,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "74": {
+                "x": 44.29,
+                "y": 43.79,
+                "dist": 1.72,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "75": {
+                "x": 44.33,
+                "y": 45.01,
+                "dist": 1.72,
+                "d": "attack",
+                "comment" : " foxes near bridge",
+                "path": {}
+        },
+        "76": {
+                "x": 44.90,
+                "y": 44.73,
+                "dist": 2.72,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "77": {
+                "x": 45.24,
+                "y": 44.61,
+                "dist": 2.72,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "78": {
+                "x": 45.79,
+                "y": 44.36,
+                "dist": 2.72,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "79": {
+                "x": 44.73,
+                "y": 44.2,
+                "dist": 2.72,
+                "d": "mv",
+                "comment" : "near the bridge",
+                "path": {}
+        },
+        "80": {
+                "x": 44.76,
+                "y": 45.59,
+                "dist": 2.72,
+                "d": "mv",
+                "comment" : "no jump. bridge",
+                "path": {}
+        },
+        "81": {
+                "x": 44.77,
+                "y": 47.17,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge begin",
+                "path": {}
+        },
+        "82": {
+                "x": 46.48,
+                "y": 47.65,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 2",
+                "path": {}
+        },
+        "83": {
+                "x": 46.26,
+                "y": 48.62,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 3",
+                "path": {}
+        },
+        "84": {
+                "x": 45.25,
+                "y": 49.62,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "under bridge 4",
+                "path": {}
+        },
+        "85": {
+                "x": 44.8,
+                "y": 47.85,
+                "dist": 2.95,
+                "d": "mv",
+                "comment" : "no jump. bridge end",
+                "path": {}
+        },
+        "86": {
+                "x": 44.55,
+                "y": 49.64,
+                "dist": 2.58,
+                "d": "aggro",
+                "comment" : "",
+                "path": {}
+        },
+        "87": {
+                "x": 44.24,
+                "y": 50.38,
+                "dist": 2.58,
+                "d": "attack",
+                "comment" : "",
+                "path": {}
+        },
+        "88": {
+                "x": 44.12,
+                "y": 51.81,
+                "dist": 2.58,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "89": {
+                "x": 44.04,
+                "y": 52.57,
+                "dist": 1.78,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        },
+        "90": {
+                "x": 43.71,
+                "y": 54.24,
+                "dist": 1.18,
+                "d": "mv",
+                "comment" : "",
+                "path": {}
+        }
+}

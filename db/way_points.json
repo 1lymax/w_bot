@@ -1,0 +1,1013 @@
+{
+        "1": {
+                "x": 44.19,
+                "y": 55.32,
+                "d": "mv",
+                "comment": ""
+        },
+        "2": {
+                "x": 44.78,
+                "y": 56.34,
+                "d": "aggro",
+                "comment": ""
+        },
+        "3": {
+                "x": 45.33,
+                "y": 57.41,
+                "d": "attack",
+                "comment": ""
+        },
+        "4": {
+                "x": 45.82,
+                "y": 58.73,
+                "d": "mv",
+                "comment": ""
+        },
+        "5": {
+                "x": 46.14,
+                "y": 59.66,
+                "d": "aggro",
+                "comment": ""
+        },
+        "6": {
+                "x": 46.37,
+                "y": 61.07,
+                "d": "attack",
+                "comment": ""
+        },
+        "7": {
+                "x": 45.44,
+                "y": 61.02,
+                "d": "mv",
+                "comment": ""
+        },
+        "8": {
+                "x": 44.47,
+                "y": 61.18,
+                "d": "mv",
+                "comment": ""
+        },
+        "9": {
+                "x": 42.92,
+                "y": 61.67,
+                "d": "aggro",
+                "comment": ""
+        },
+        "10": {
+                "x": 42.41,
+                "y": 62.04,
+                "d": "attack",
+                "comment": ""
+        },
+        "11": {
+                "x": 42.34,
+                "y": 59.83,
+                "d": "mv",
+                "comment": "bridge. nofly"
+        },
+        "12": {
+                "x": 38.43,
+                "y": 60.40,
+                "d": "mv",
+                "comment": "under bridge begin"
+        },
+        "13": {
+                "x": 38.58,
+                "y": 58.85,
+                "d": "mv",
+                "comment": "under bridge 2. temple of courage"
+        },
+        "14": {
+                "x": 39.32,
+                "y": 57.14,
+                "d": "mv",
+                "comment": "under bridge 3"
+        },
+        "15": {
+                "x": 40.42,
+                "y": 57.20,
+                "d": "mv",
+                "comment": "under bridge 4"
+        },
+        "16": {
+                "x": 41.78,
+                "y": 55.39,
+                "d": "mv",
+                "comment": "under bridge 5"
+        },
+        "17": {
+                "x": 42.79,
+                "y": 55.24,
+                "d": "mv",
+                "comment": "under bridge 6"
+        },
+        "18": {
+                "x": 42.68,
+                "y": 57.55,
+                "d": "mv",
+                "comment": "under bridge 7"
+        },
+        "19": {
+                "x": 42.44,
+                "y": 59.66,
+                "d": "aggro",
+                "comment": "bridge middle. nofly"
+        },
+        "20": {
+                "x": 42.25,
+                "y": 59.02,
+                "d": "attack",
+                "comment": "bridge middle. temple of courage"
+        },
+        "21": {
+                "x": 41.55,
+                "y": 59.96,
+                "d": "aggro",
+                "comment": "bridge middle. nofly"
+        },
+        "22": {
+                "x": 41.02,
+                "y": 60.78,
+                "d": "attack",
+                "comment": "bridge middle. temple of courage."
+        },
+        "23": {
+                "x": 40.89,
+                "y": 61.69,
+                "d": "aggro",
+                "comment": "bridge middle. nofly"
+        },
+        "24": {
+                "x": 40.78,
+                "y": 62.48,
+                "d": "attack",
+                "comment": "bridge middle."
+        },
+        "25": {
+                "x": 38.17,
+                "y": 62.92,
+                "d": "mv",
+                "comment": "bridge middle. temple of courage"
+        },
+        "26": {
+                "x": 37.69,
+                "y": 62.79,
+                "d": "aggro",
+                "comment": "bridge middle. Skip"
+        },
+
+        "27": {
+                "x": 36.81,
+                "y": 61.54,
+                "d": "attack",
+                "comment": "bridge middle. Skip"
+        },
+        "28": {
+                "x": 37.12,
+                "y": 62.40,
+                "d": "mv",
+                "comment": "bridge end. Skip"
+        },
+        "29": {
+                "x": 38.6,
+                "y": 65.64,
+                "d": "mv",
+                "comment": ""
+        },
+        "30": {
+                "x": 39.7,
+                "y": 65.58,
+                "d": "mv",
+                "comment": ""
+        },
+        "31": {
+                "x": 40.18,
+                "y": 65.56,
+                "d": "aggro",
+                "comment": ""
+        },
+        "32": {
+                "x": 40.77,
+                "y": 65.38,
+                "d": "attack",
+                "comment": ""
+        },
+        "33": {
+                "x": 41.27,
+                "y": 66.39,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "34": {
+                "x": 41.54,
+                "y": 66.41,
+                "d": "aggro",
+                "comment": "nofly"
+        },
+        "35": {
+                "x": 42.22,
+                "y": 66.03,
+                "d": "attack",
+                "comment": ""
+        },
+        "36": {
+                "x": 42.36,
+                "y": 66.97,
+                "d": "aggro",
+                "comment": "nofly"
+        },
+        "37": {
+                "x": 42.27,
+                "y": 68.1,
+                "d": "attack",
+                "comment": "vozle obriva"
+        },
+        "38": {
+                "x": 43.14,
+                "y": 69.08,
+                "d": "mv",
+                "comment": "padenie s obriva"
+        },
+        "39": {
+                "x": 43.22,
+                "y": 69.11,
+                "d": "aggro",
+                "comment": "foxes. difficult"
+        },
+        "40": {
+                "x": 43.69,
+                "y": 70.65,
+                "d": "aggro",
+                "comment": "foxes. difficult"
+        },
+        "41": {
+                "x": 44.33,
+                "y": 71.23,
+                "d": "attack",
+                "comment": "foxes. difficult"
+        },
+        "42": {
+                "x": 44.43,
+                "y": 71.38,
+                "d": "aggro",
+                "comment": "foxes. nofly"
+        },
+        "43": {
+                "x": 44.9,
+                "y": 71.78,
+                "d": "attack",
+                "comment": "foxes"
+        },
+        "44": {
+                "x": 45.18,
+                "y": 72.16,
+                "d": "aggro",
+                "comment": "larions. nofly"
+        },
+        "45": {
+                "x": 45.29,
+                "y": 73.21,
+                "d": "attack",
+                "comment": "larions"
+        },
+        "46": {
+                "x": 44.72,
+                "y": 72.79,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "47": {
+                "x": 44.53,
+                "y": 73.18,
+                "d": "aggro",
+                "comment": "nofly"
+        },
+        "48": {
+                "x": 44.28,
+                "y": 74.08,
+                "d": "attack",
+                "comment": "vozle obriva. brdg"
+        },
+
+        "49": {
+                "x": 43.03,
+                "y": 77.37,
+                "d": "mv",
+                "comment": "undr bridg begin. Skip"
+        },
+        "50": {
+                "x": 44.87,
+                "y": 79.79,
+                "d": "mv",
+                "comment": "undr bridg 2. Skip"
+        },
+        "51": {
+                "x": 44.90,
+                "y": 77.44,
+                "d": "mv",
+                "comment": "padenie s obriva"
+        },
+        "52": {
+                "x": 47.94,
+                "y": 76.69,
+                "d": "mv",
+                "comment": "larions. needpitchdown"
+        },
+        "53": {
+                "x": 46.86,
+                "y": 76.78,
+                "d": "aggro",
+                "comment": "larions. needpitchdown. bride mddle"
+        },
+        "54": {
+                "x": 48.01,
+                "y": 75.40,
+                "d": "attack",
+                "comment": ""
+        },
+        "55": {
+                "x": 48.18,
+                "y": 75.46,
+                "d": "mv",
+                "comment": "Skip"
+        },
+        "56": {
+                "x": 48.42,
+                "y": 75.18,
+                "d": "aggro",
+                "comment": "Skip"
+        },
+        "57": {
+                "x": 48.79,
+                "y": 75.77,
+                "d": "aggro",
+                "comment": "Skip"
+        },
+        "58": {
+                "x": 49.46,
+                "y": 76.29,
+                "d": "attack",
+                "comment": "Skip"
+        },
+        "59": {
+                "x": 48.52,
+                "y": 74.61,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "60": {
+                "x": 48.46,
+                "y": 73.57,
+                "d": "mailbox",
+                "comment": "nofly"
+        },
+        "61": {
+                "x": 48.88,
+                "y": 73.53,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "62": {
+                "x": 49.2,
+                "y": 73.56,
+                "d": "aggro",
+                "comment": "nofly"
+        },
+        "63": {
+                "x": 50.14,
+                "y": 73.74,
+                "d": "attack",
+                "comment": ""
+        },
+        "64": {
+                "x": 50.74,
+                "y": 72.87,
+                "d": "mv",
+                "comment": ""
+        },
+        "65": {
+                "x": 51.06,
+                "y": 72.65,
+                "d": "aggro",
+                "comment": ""
+        },
+        "66": {
+                "x": 51.95,
+                "y": 71.78,
+                "d": "attack",
+                "comment": ""
+        },
+        "67": {
+                "x": 52.2,
+                "y": 71.27,
+                "d": "mv",
+                "comment": ""
+        },
+        "68": {
+                "x": 52.38,
+                "y": 71.0,
+                "d": "aggro",
+                "comment": "Skip"
+        },
+        "69": {
+                "x": 52.79,
+                "y": 70.42,
+                "d": "attack",
+                "comment": "Skip"
+        },
+        "70": {
+                "x": 53.4,
+                "y": 70.7,
+                "d": "mv",
+                "comment": "road near stalkers"
+        },
+        "71": {
+                "x": 53.73,
+                "y": 70.45,
+                "d": "aggro",
+                "comment": ""
+        },
+        "72": {
+                "x": 54.56,
+                "y": 69.57,
+                "d": "attack",
+                "comment": ""
+        },
+        "73": {
+                "x": 54.62,
+                "y": 68.23,
+                "d": "mv",
+                "comment": ""
+        },
+        "74": {
+                "x": 54.47,
+                "y": 67.87,
+                "d": "aggro",
+                "comment": ""
+        },
+        "75": {
+                "x": 54.4,
+                "y": 67.14,
+                "d": "attack",
+                "comment": "stalkers"
+        },
+        "76": {
+                "x": 52.92,
+                "y": 66.78,
+                "d": "mv",
+                "comment": ""
+        },
+        "77": {
+                "x": 52.01,
+                "y": 65.07,
+                "d": "aggro",
+                "comment": ""
+        },
+        "78": {
+                "x": 51.64,
+                "y": 63.49,
+                "d": "attack",
+                "comment": "foxes+eagle+grazer. near brdg"
+        },
+        "79": {
+                "x": 52.31,
+                "y": 63.35,
+                "d": "mv",
+                "comment": "road. 3degree"
+        },
+        "80": {
+                "x": 53.06,
+                "y": 63.27,
+                "d": "aggro",
+                "comment": ""
+        },
+        "81": {
+                "x": 53.71,
+                "y": 62.07,
+                "d": "attack",
+                "comment": ""
+        },
+        "82": {
+                "x": 53.09,
+                "y": 60.93,
+                "d": "mv",
+                "comment": "bridge"
+        },
+        "83": {
+                "x": 50.75,
+                "y": 58.78,
+                "d": "mv",
+                "comment": "under bridge begin"
+        },
+        "84": {
+                "x": 51.64,
+                "y": 57.74,
+                "d": "mv",
+                "comment": "under bridge 1"
+        },
+        "85": {
+                "x": 52.37,
+                "y": 57.89,
+                "d": "mv",
+                "comment": "under bridge 2"
+        },
+        "86": {
+                "x": 53.03,
+                "y": 57.76,
+                "d": "mv",
+                "comment": "bridge middle"
+        },
+        "87": {
+                "x": 53.96,
+                "y": 56.85,
+                "d": "aggro",
+                "comment": "bridge end"
+        },
+        "88": {
+                "x": 55.2,
+                "y": 56.62,
+                "d": "attack",
+                "comment": ""
+        },
+        "89": {
+                "x": 55.32,
+                "y": 56.06,
+                "d": "mv",
+                "comment": ""
+        },
+        "90": {
+                "x": 55.25,
+                "y": 55.82,
+                "d": "mv",
+                "comment": ""
+        },
+        "91": {
+                "x": 55.52,
+                "y": 54.9,
+                "d": "attack",
+                "comment": ""
+        },
+        "92": {
+                "x": 55.69,
+                "y": 52.47,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "93": {
+                "x": 56.42,
+                "y": 51.9,
+                "d": "aggro",
+                "comment": "nofly"
+        },
+        "94": {
+                "x": 57.14,
+                "y": 51.88,
+                "d": "attack",
+                "comment": ""
+        },
+        "95": {
+                "x": 57.6,
+                "y": 52.8,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "96": {
+                "x": 57.61,
+                "y": 53.05,
+                "d": "aggro",
+                "comment": "nofly. Skip"
+        },
+        "97": {
+                "x": 58.98,
+                "y": 52.6,
+                "d": "attack",
+                "comment": "Skip"
+        },
+        "98": {
+                "x": 58.47,
+                "y": 52.21,
+                "d": "aggro",
+                "comment": "nofly"
+        },
+        "99": {
+                "x": 58.46,
+                "y": 50.94,
+                "d": "attack",
+                "comment": ""
+        },
+        "100": {
+                "x": 58.42,
+                "y": 49.06,
+                "d": "mv",
+                "comment": ""
+        },
+        "101": {
+                "x": 58.83,
+                "y": 48.06,
+                "d": "mv",
+                "comment": ""
+        },
+        "102": {
+                "x": 58.76,
+                "y": 47.16,
+                "d": "mv",
+                "comment": "respawn"
+        },
+        "103": {
+                "x": 60.17,
+                "y": 46.7,
+                "d": "aggro",
+                "comment": ""
+        },
+        "104": {
+                "x": 60.56,
+                "y": 45.38,
+                "d": "attack",
+                "comment": ""
+        },
+        "105": {
+                "x": 58.84,
+                "y": 42.86,
+                "d": "mv",
+                "comment": "respawn"
+        },
+        "106": {
+                "x": 58.67,
+                "y": 43.0,
+                "d": "aggro",
+                "comment": "respawn"
+        },
+        "107": {
+                "x": 58.43,
+                "y": 42.95,
+                "d": "attack",
+                "comment": "respawn"
+        },
+        "108": {
+                "x": 59.76,
+                "y": 43.14,
+                "d": "mv",
+                "comment": ""
+        },
+        "109": {
+                "x": 60.18,
+                "y": 42.51,
+                "d": "aggro",
+                "comment": ""
+        },
+        "110": {
+                "x": 60.6,
+                "y": 41.96,
+                "d": "attack",
+                "comment": "nospells"
+        },
+        "111": {
+                "x": 59.37,
+                "y": 41.16,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "112": {
+                "x": 58.32,
+                "y": 38.46,
+                "d": "aggro",
+                "comment": ""
+        },
+        "113": {
+                "x": 57.44,
+                "y": 37.47,
+                "d": "attack",
+                "comment": "near stones. Strong enemies."
+        },
+        "114": {
+                "x": 56.53,
+                "y": 37.44,
+                "d": "mv",
+                "comment": "respawn. nofly. Skip"
+        },
+        "115": {
+                "x": 56.36,
+                "y": 37.30,
+                "d": "aggro",
+                "comment": "respawn. near birds. nofly. Skip"
+        },
+        "116": {
+                "x": 56.15,
+                "y": 37.18,
+                "d": "attack",
+                "comment": "respawn. birds. Skip"
+        },
+        "117": {
+                "x": 56.45,
+                "y": 36.22,
+                "d": "mv",
+                "comment": "nofly"
+        },
+        "118": {
+                "x": 56.98,
+                "y": 36.01,
+                "d": "aggro",
+                "comment": "near birds. nofly"
+        },
+        "119": {
+                "x": 56.69,
+                "y": 35.64,
+                "d": "attack",
+                "comment": ""
+        },
+        "120": {
+                "x": 56.55,
+                "y": 34.72,
+                "d": "mv",
+                "comment": ""
+        },
+        "121": {
+                "x": 56.55,
+                "y": 34.72,
+                "d": "mv",
+                "comment": ""
+        },
+        "122": {
+                "x": 56.45,
+                "y": 34.37,
+                "d": "aggro",
+                "comment": ""
+        },
+        "123": {
+                "x": 56.23,
+                "y": 33.78,
+                "d": "attack",
+                "comment": ""
+        },
+        "124": {
+                "x": 55.43,
+                "y": 35.0,
+                "d": "mv",
+                "comment": ""
+        },
+        "125": {
+                "x": 54.81,
+                "y": 35.11,
+                "d": "aggro",
+                "comment": ""
+        },
+        "126": {
+                "x": 54.01,
+                "y": 35.87,
+                "d": "attack",
+                "comment": ""
+        },
+        "127": {
+                "x": 52.99,
+                "y": 38.0,
+                "d": "to heros rest",
+                "comment": "Skip"
+        },
+        "128": {
+                "x": 53.21,
+                "y": 45.03,
+                "d": "mv on rest",
+                "comment": "Skip"
+        },
+        "129": {
+                "x": 52.77,
+                "y": 46.17,
+                "d": "mv on rest",
+                "comment": "Skip"
+        },
+        "130": {
+                "x": 53.23,
+                "y": 47.2,
+                "d": "mailbox",
+                "comment": "Skip"
+        },
+        "131": {
+                "x": 52.77,
+                "y": 46.17,
+                "d": "mv on rest",
+                "comment": "Skip"
+        },
+        "132": {
+                "x": 53.28,
+                "y": 44.91,
+                "d": "from heros rest",
+                "comment": "Skip"
+        },
+        "133": {
+                "x": 52.99,
+                "y": 37.87,
+                "d": "mv",
+                "comment": "Skip"
+        },
+        "134": {
+                "x": 53.49,
+                "y": 35.09,
+                "d": "mv",
+                "comment": "skpfly. flyup"
+        },
+        "135": {
+                "x": 52.46,
+                "y": 36.35,
+                "d": "mv",
+                "comment": "flyup"
+        },
+        "136": {
+                "x": 51.37,
+                "y": 37.48,
+                "d": "mv",
+                "comment": "no jump. bridge"
+        },
+        "137": {
+                "x": 50.77,
+                "y": 39.55,
+                "d": "mv",
+                "comment": "under bridge begin"
+        },
+        "138": {
+                "x": 49.93,
+                "y": 39.88,
+                "d": "mv",
+                "comment": "under bridge 1"
+        },
+        "139": {
+                "x": 49.26,
+                "y": 41.18,
+                "d": "mv",
+                "comment": "under bridge 2"
+        },
+        "140": {
+                "x": 48.16,
+                "y": 40.26,
+                "d": "mv",
+                "comment": "under bridge 3"
+        },
+        "141": {
+                "x": 49.33,
+                "y": 38.9,
+                "d": "mv",
+                "comment": "no jump. bridge middle"
+        },
+        "142": {
+                "x": 48.0,
+                "y": 40.27,
+                "d": "mv",
+                "comment": "no jump. bridge end"
+        },
+        "143": {
+                "x": 47.55,
+                "y": 40.15,
+                "d": "mv",
+                "comment": ""
+        },
+        "144": {
+                "x": 46.15,
+                "y": 40.86,
+                "d": "mv",
+                "comment": ""
+        },
+        "145": {
+                "x": 45.04,
+                "y": 40.36,
+                "d": "mv",
+                "comment": ""
+        },
+        "146": {
+                "x": 44.98,
+                "y": 40.15,
+                "d": "aggro",
+                "comment": "larions. difficult"
+        },
+        "147": {
+                "x": 46.03,
+                "y": 38.67,
+                "d": "attack",
+                "comment": "larions. difficult"
+        },
+        "148": {
+                "x": 45.14,
+                "y": 40.00,
+                "d": "mv",
+                "comment": "bridge. nofly"
+        },
+        
+        "149": {
+                "x": 40.70,
+                "y": 42.43,
+                "d": "mv",
+                "comment": "under bridge begin"
+        },
+        "150": {
+                "x": 41.03,
+                "y": 41.63,
+                "d": "mv",
+                "comment": "under bridge 2"
+        },
+        "156": {
+                "x": 41.58,
+                "y": 40.74,
+                "d": "mv",
+                "comment": "under bridge 3"
+        },
+        "151": {
+                "x": 43.21,
+                "y": 41.35,
+                "d": "mv",
+                "comment": "under bridge 4"
+        },
+        "152": {
+                "x": 44.47,
+                "y": 41.57,
+                "d": "aggro",
+                "comment": ". nofly"
+        },
+        "153": {
+                "x": 43.78,
+                "y": 42.56,
+                "d": "attack",
+                "comment": "bridge middle"
+        },
+        "154": {
+                "x": 44.29,
+                "y": 43.79,
+                "d": "aggro",
+                "comment": "bridge middle. nofly"
+        },
+        "155": {
+                "x": 44.33,
+                "y": 45.01,
+                "d": "attack",
+                "comment": " foxes near brdg. bridge middle"
+        },
+        "156": {
+                "x": 44.9,
+                "y": 44.73,
+                "d": "mv",
+                "comment": "bridge middle. nofly"
+        },
+        "157": {
+                "x": 45.24,
+                "y": 44.61,
+                "d": "aggro",
+                "comment": "bridge middle. nofly"
+        },
+        "158": {
+                "x": 45.79,
+                "y": 44.36,
+                "d": "attack",
+                "comment": "bridge middle"
+        },
+        "159": {
+                "x": 44.85,
+                "y": 41.03,
+                "d": "mv",
+                "comment": "bridge middle. skpfly"
+        },
+        "160": {
+                "x": 46.48,
+                "y": 47.65,
+                "d": "mv",
+                "comment": "bridge middle. skpfly"
+        },
+        "161": {
+                "x": 46.22,
+                "y": 48.47,
+                "d": "mv",
+                "comment": "skpfly"
+        },
+        "162": {
+                "x": 45.25,
+                "y": 49.62,
+                "d": "mv",
+                "comment": ""
+        },
+        "163": {
+                "x": 44.76,
+                "y": 49.85,
+                "d": "aggro",
+                "comment": ""
+        },
+        "164": {
+                "x": 44.24,
+                "y": 50.38,
+                "d": "attack",
+                "comment": ""
+        },
+        "165": {
+                "x": 44.12,
+                "y": 51.81,
+                "d": "mv",
+                "comment": "skpfly"
+        },
+        "166": {
+                "x": 44.04,
+                "y": 52.57,
+                "d": "mv",
+                "comment": "skpfly"
+        },
+        "167": {
+                "x": 43.71,
+                "y": 54.24,
+                "d": "mv",
+                "comment": ""
+        }
+}
